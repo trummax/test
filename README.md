@@ -1,6 +1,6 @@
 # test
 # Knowledge base of crypto networks   
-## Genius protocols
+## Ingenious Protocols
 * [Bitcoin](https://bitcoin.org/en/) - [Paper](https://bitcoin.org/bitcoin.pdf), [Wiki](https://en.bitcoin.it/wiki/Main_Page), [Forum](https://bitcoinfoundation.org/forum), [Explorer](https://blockchain.info), [GitHub](https://github.com/bitcoin), [Blog](https://bitcoin.org/en/blog), [Releases](https://bitcoincore.org/en/releases/).
 
 * [Ethereum](https://www.ethereum.org/) - [Paper](https://github.com/ethereum/wiki/wiki/White-Paper), [Wiki](https://github.com/ethereum/wiki/wiki), [Forum](http://forum.ethereum.org/), [Explorer](https://etherscan.io/), [GitHub](https://github.com/ethereum), [Blog](https://blog.ethereum.org/).
@@ -28,8 +28,8 @@
 * [Monero](https://getmonero.org/) - [Wiki](https://getmonero.org/knowledge-base/moneropedia/), [Forum](https://forum.getmonero.org/), [Explorer](http://moneroblocks.info/), [Blog](https://getmonero.org/blog/).
 
 * [Blackcoin](http://blackcoin.co/) - [Paper](http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf), [Wiki](http://en.bitcoinwiki.org/Blackcoin), [GitHub](https://github.com/CoinBlack).
-* 
-## Smart protocols
+
+## Smart Protocols
  * [Storj](https://storj.io/) - [Paper](https://storj.io/storj.pdf), [Community](https://storj.io/community.html) ,[GitHub](https://github.com/Storj/), [Blog](http://blog.storj.io/).
  
  * [NEM](https://www.nem.io/) - [Paper](https://www.nem.io/NEM_techRef.pdf), [Wiki](http://wiki.nem.io/index.php/Main_Page), [Tutorials](https://blog.nem.io/nem-tutorial-list/), [Forum](https://forum.nem.io/), [Explorer](http://chain.nem.ninja/#/blocks/0), [GitHub](https://github.com/NemProject), [Blog](https://blog.nem.io/).
@@ -87,7 +87,7 @@
  * [BTC12](http://btc12.com/)
  * [52ICO](http://52ico.com/)
 
-### Cryptocurrency portfolio trackers
+### Cryptocurrency Portfolio Trackers
 * [Cyber.Fund](https://cyber.fund/funds)
 * [Countmycrypto](http://www.countmycrypto.com/)
 * [Cryptfolio](https://cryptfolio.com/)
@@ -189,15 +189,15 @@
 * [Criptonoticias](https://criptonoticias.com/)
 
 
-## Crypto currency wallets
-|                 |   |                  | [Bitcoin Core](https://bitcoin.org/en/download) | [Blockchain](https://blockchain.info/wallet/#/) | [Coinbase](https://www.coinbase.com/) | [Exodus](https://www.exodus.io/) | [Electrum](https://electrum.org/#home) | [Mycelium](https://wallet.mycelium.com/) | [Trezor](https://wallet.trezor.io/) | [Jaxx](https://jaxx.io/)                            | [CoinSpot](https://www.coinspot.com.au/multicoinwallets) | [Copay](https://copay.io/) |
-|-----------------|---|------------------|-------------------------------------------------|-------------------------------------------------|---------------------------------------|----------------------------------|----------------------------------------|------------------------------------------|-------------------------------------|-----------------------------------------------------|----------------------------------------------------------|----------------------------|
-| Wallet Type     |   | Hot wallet       | Hot wallet                                      | Hot wallet                                      | Hot wallet                            | Hot wallet                       | Hot wallet                             | Hardware wallet                          | Hot wallet                          | Hot wallet                                          | Hot wallet                                               |                            |
-| Open Source     |   | +                | +                                               | -                                               | +                                     | +                                | +                                      | +                                        | -                                   | -                                                   | +                                                        |                            |
-| Cold storage    |   | semi-cold wallet | -                                               | -                                               | -                                     | +                                | +                                      | +                                        | -                                   | -                                                   | -                                                        |                            |
-| Supported coins |   | BTC              | BTC                                             | BTC                                             | BTC, ETH, LTC, DASH, DOGE, GNT        | BTC                              | BTC                                    | BTC, LTC, NMC, DOGE, DASH                |                                     | BTC, LTC, DOGE, DASH, LOT, PPC, WDC, FTC, MOON, XPM | BTC                                                      |                            |
+## Cryptocurrency Wallets
+|                 | Bitcoin Core     | Blockchain | Coinbase   | Exodus                         | Electrum   | Mycelium   | Trezor                    | JAXX       | CoinSpot                                            | Copay      |
+|-----------------|------------------|------------|------------|--------------------------------|------------|------------|---------------------------|------------|-----------------------------------------------------|------------|
+| Wallet Type     | Hot wallet       | Hot wallet | Hot wallet | Hot wallet                     | Hot wallet | Hot wallet | Hardware wallet           | Hot wallet | Hot wallet                                          | Hot wallet |
+| Supported coins | BTC              | BTC        | BTC        | BTC, ETH, LTC, DASH, DOGE, GNT | BTC        | BTC        | BTC, LTC, NMC, DOGE, DASH |            | BTC, LTC, DOGE, DASH, LOT, PPC, WDC, FTC, MOON, XPM | BTC        |
+| Open Source     | +                | +          | -          | +                              | +          | +          | +                         | -          | -                                                   | +          |
+| Cold storage    | semi-cold wallet | -          | -          | -                              | +          | +          | +                         | -          | -                                                   | -          |
 
-## Cryptocurrency mining
+## Cryptocurrency Mining
 | Asset    | Consensus algorithm | Mining type |
 |----------|---------------------|-------------|
 | Bitcoin  | PoW SHA-256         | ASIC        |
@@ -209,7 +209,7 @@
 | Peercoin | Hybrid SHA-256      | ASIC        |
 | Zcash    | PoW                 | CPU, GPU    |
 
-## Moneytransfer services
+## Money Transfer Services
 |                           |                                                      | [BitPesa](https://bitpesa.co)       | [Abra](https://www.goabra.com/)                          | [Rabit.Ph](https://Rabit.Ph)                                   | [Uphold](https://uphold.com/)       | [Coinpip](https://www.coinpip.com/) |
 |---------------------------|------------------------------------------------------|-------------------------------------|----------------------------------------------------------|----------------------------------------------------------------|-------------------------------------|-------------------------------------|
 | Description               | An universal payment and trading platform for Africa | A digital cash peer-to-peer network | Send money to the Philippines from anywhere in the world | Platform for moving​ and holding any form of money or commodity | A digital cash peer-to-peer network |                                     |
@@ -218,14 +218,14 @@
 | Fees                      | 1-3% transfer fees                                   | No transfer fees                    | No transfer fees                                         | 1.8-2.75% deposit fees                                         | 2%                                  |                                     |
 | Mobile App                | -                                                    | +                                   | -                                                        | -                                                              | -                                   |                                     |                                    |
 
-## Crypto-asset issuance and crowdfunding platforms
+## Crypto-asset Issuance and Crowdfunding Platforms
 * [Waves](https://wavesplatform.com/)
 * [NXT](https://nxt.org/)
 * [Ambisafe](https://www.ambisafe.co/)
 * [OMNI](http://www.omnilayer.org/)
 
 
-## Crypto currency exchanges
+## Cryptocurrency Exchanges
 |          |                                 | [Poloniex](https://poloniex.com)   | [OKCoin.cn](https://OKCoin.cn) | [Huobi](https://www.huobi.com)          | [Kraken](https://www.kraken.com)        | [Bitfinex](https://www.bitfinex.com)                          | [GDAX](https://www.gdax.com/)                    | [BTC-E](https://btc-e.com/) | [BTC38](http://www.btc38.com/) |   |
 |----------|---------------------------------|------------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|---------------------------------------------------------------|--------------------------------------------------|-----------------------------|--------------------------------|---|
 | Location | USA                             | China                              | China                          | USA                                     | Hong Kong                               | USA                                                           | Russia                                           | China                       |                                |   |
@@ -258,7 +258,6 @@
 | October 24-25, 2017 | [IoT Security Summit](https://tmt.knect365.com/iot-security/)                                                                                                                    | New York, NY             |
 | November 14, 2017   | [Blockchain for Wall Street](http://www.blockchainforwallstreet.com/)                                                                                                            | New York, NY             |
 | December 3-5, 2017  | [Marketplace Lending & Alternative Financing Summit](http://opalgroup.net/conference/marketplace-lending-alternative-financing-summit-2017/?id=170301002211119369224C&contact=0) | Dana Point, CA           |
-
 
 ## Persons
 | Name              | Description                                                                                          | Link                                                                                                                                                                  |
